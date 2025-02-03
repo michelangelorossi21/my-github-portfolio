@@ -26,6 +26,6 @@ I'm **Michelangelo Rossi**, a passionate **web and software developer**. Here ar
 
 🔹 **[Seismic detector](https://github.com/michelangelorossi21/stm32-seismicDetector)** – A C-written project for STM32 board to detect Earthquakes and abnormal ground vibrations.
 
-## 📫 Contact  
+## 📫 Contacts  
 📩 Email: [michelangelo.rossi91@gmail.com](mailto:michelangelo.rossi91@gmail.com)  
 💼 LinkedIn: [Michelangelo Rossi](https://www.linkedin.com/in/michelangelo-rossi-6a2071a6/)  
