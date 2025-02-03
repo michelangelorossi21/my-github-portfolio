@@ -1,4 +1,4 @@
-# 🚀 Michelangelo Rossi - GitHub Portfolio  
+# Michelangelo Rossi - GitHub Portfolio  
 
 I'm **Michelangelo Rossi**, a passionate **web and software developer**. Here are my skills, knowledge and my main projects. 
 
