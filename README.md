@@ -14,6 +14,7 @@ I'm **Michelangelo Rossi**, a passionate **web and software developer**. Here ar
 - **Frameworks & Tools:** .NET Core, VSCode, Django, PyCharm, IntelliJ, CLion  
 - **Version Control & Deployment:** Git, GitHub, Docker  
 
+
 ## 📌 Main Projects  
 
 🔹 **[NextPyter Background notification](https://github.com/michelangelorossi21/nextp_background_notifications)** – A JupyterLab extension for background notifications.
@@ -25,6 +26,7 @@ I'm **Michelangelo Rossi**, a passionate **web and software developer**. Here ar
 🔹 **[Smart IoT Concert Controller](https://github.com/michelangelorossi21/iot-concert-enviroment)** – A simulated IoT system to manage smart lights and amplifiers during concerts.
 
 🔹 **[Seismic detector](https://github.com/michelangelorossi21/stm32-seismicDetector)** – A C-written project for STM32 board to detect Earthquakes and abnormal ground vibrations.
+
 
 ## 📫 Contacts  
 📩 Email: [michelangelo.rossi91@gmail.com](mailto:michelangelo.rossi91@gmail.com)  
