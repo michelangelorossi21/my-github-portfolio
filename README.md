@@ -11,7 +11,7 @@ I'm **Michelangelo Rossi**, a passionate **web and software developer**. Here ar
 - **Machine Learning:** Basic knowledge with Python libraries (NumPy, Pandas, Scikit-learn)  
 - **IoT Development:** Java  
 - **Databases:** SQLite, PostgreSQL  
-- **Frameworks & Tools:** .NET Core, VSCode, Django, PyCharm, IntelliJ, CLion  
+- **Frameworks & IDEs:** .NET Core, Django, VSCode, PyCharm, IntelliJ, CLion  
 - **Version Control & Deployment:** Git, GitHub, Docker  
 
 
