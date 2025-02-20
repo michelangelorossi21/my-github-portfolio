@@ -30,4 +30,3 @@ I'm **Michelangelo Rossi**, a passionate **web and software developer**. Here ar
 
 ## 📫 Contacts  
 📩 Email: [michelangelo.rossi91@gmail.com](mailto:michelangelo.rossi91@gmail.com)  
-💼 LinkedIn: [Michelangelo Rossi](https://www.linkedin.com/in/michelangelo-rossi-6a2071a6/)  
